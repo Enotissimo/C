@@ -13,7 +13,6 @@ Sample Output:
  */
 
 #include <stdio.h>
-
 int main() {
     int a, b;
     double c, e;
